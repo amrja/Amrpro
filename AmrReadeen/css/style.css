@@ -409,7 +409,6 @@ ol.type li a:hover {
 /* About Section */
 #about-section {
 	padding: 80px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100 */
 	background: rgb(3,39,49); /* Old browsers */
 	background: -moz-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* Chrome10-25,Safari5.1-6 */
@@ -434,7 +433,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', end
 /* Team Section */
 #team-section {
 	padding: 80px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
 	background: rgb(193,166,24); /* Old browsers */
 	background: -moz-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* Chrome10-25,Safari5.1-6 */
@@ -495,7 +493,6 @@ img.img-circle.team-img {
 /* Testimonials Section */
 #testimonials-section {
 	padding: 80px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100 */
 	background: url(../img/testimonials-bg.jpg);
 	background-size: cover;
 	background-attachment: fixed;
@@ -516,7 +513,6 @@ img.img-circle.team-img {
 /* Contact Section */
 #contact-section {
 	padding: 80px 0 20px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
 	background: rgb(193,166,24); /* Old browsers */
 	background: -moz-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* Chrome10-25,Safari5.1-6 */
