@@ -1,9 +1,7 @@
-/* 
- * 	Core Owl Carousel CSS File
- *	v1.3.2
- */
+/*
+Amr Jamal
+*/
 
-/* clearfix */
 .owl-carousel .owl-wrapper:after {
 	content: ".";
 	display: block;
